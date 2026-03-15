@@ -1,0 +1,9 @@
+
+theme = 'hugo-brewm'
+enableGitInfo = true
+
+[author]
+name = "Andrés Felipe Hurtado Agudelo"
+email = "tucorreo@example.com"
+
+disableKinds = ['rss']
