@@ -54,7 +54,7 @@ eficaces, como TikTok o YouTube ([tengo canal](http://www.youtube.com/@Andr3sHu)
 tiempo, incluso hardware con especificaciones a veces importantes, pero que al menos tienen
 rápida visibilidad.
 
-Con respecto a mi papá, su memoria y su legado: sí lo haré en múltiples medios. Pero yo,
+Con respecto a mi **papá****, su memoria y su legado: sí lo haré en múltiples medios. Pero yo,
 por ahora, lo haré por escrito, como un ejercicio que me ayude a organizar mis ideas y sacar
 todo lo que desde hace años llevo en unas terapéuticas hojas de papel que luego terminan
 revueltas o perdidas (o primero lo uno y después igualmente perdidas). Temas como los de mi
