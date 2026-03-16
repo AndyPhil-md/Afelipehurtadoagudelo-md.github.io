@@ -30,4 +30,4 @@ La pena más grande que he vivido hasta hoy me empujó a dar este paso. No redac
 
 La memoria de mi papá merece capítulos exclusivos y detalles que deben permanecer por lo que quede del tiempo. Hoy, solo construyo la puerta de entrada.
 
-*QW5kcsOpcyBGZWxpcGUgSHVydGFkbyBBZ3VkZWxv*
+<span style="color: white;">*QW5kcsOpcyBGZWxpcGUgSHVydGFkbyBBZ3VkZWxv*</span>
