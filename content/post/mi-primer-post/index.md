@@ -1,9 +1,9 @@
 ---
-
+unsafe = true
 title: "Puerta de Cristal"
 date: 2026-03-14T21:30:00-05:00
 draft: false
-unsafe = true
+
 tags:
   - vida
   - diario
