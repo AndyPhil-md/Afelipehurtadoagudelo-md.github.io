@@ -1,13 +1,18 @@
-/* Estilo Papel para el modo Claro */
+/* MODO CLARO = SEPIA/AMARILLO (Lectura de diario) */
 :root[data-scheme="light"] {
-    --body-background: #fdf6e3; 
-    --card-background: #eee8d5;
-    --text-color-main: #586e75;
+    --body-background: #fdf6e3; /* Fondo crema */
+    --card-background: #eee8d5; /* Tarjetas un poco más oscuras */
+    --text-color-main: #586e75; /* Texto gris azulado suave */
+    --text-color-title: #268bd2; /* Títulos en azul suave */
 }
 
-/* Un toque de verde terminal para el modo Oscuro */
+/* MODO OSCURO = TERMINAL/OBSIDIAN (Pensamiento sistémico) */
 :root[data-scheme="dark"] {
-    --body-background: #0d1117;
-    --card-background: #161b22;
-    --accent-color: #2ea043; 
+    --body-background: #0d1117; /* Negro profundo GitHub */
+    --card-background: #161b22; 
+    --text-color-main: #c9d1d9;
+    --accent-color: #2ea043; /* Verde éxito/terminal */
 }
+
+/* Si quieres que el "Blanco" sea el de defecto del sistema */
+/* El usuario podrá alternar entre Sepia y Oscuro con el botón del sol/luna */
