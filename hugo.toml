@@ -1,11 +1,11 @@
 theme = 'hugo-theme-stack'
 enableGitInfo = true
-title = "[[ Andrés Felipe Hurtado ]]"
+
 languageCode = "es"
 defaultContentLanguage = "es"
 
 [author]
-  name = "Andrés Felipe Hurtado Agudelo"
+
 
 [params]
   mainSections = ["post"]
