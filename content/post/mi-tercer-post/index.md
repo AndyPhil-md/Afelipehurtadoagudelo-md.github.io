@@ -79,6 +79,9 @@ En la práctica, muchas de estas becas funcionan mejor para un estrato social co
 
 Eso no es solo plata. También es lo que Pierre Bourdieu llamaría **capital cultural**: saber qué examen presentar, a quién pedirle una carta, cómo redactar un ensayo que suene "correcto", cómo hablar en estos espacios sin sentir que uno entró donde no lo habían invitado.
 
+![Estratos de los beneficiarios de Colfuturo hasta 2026](/img/imagenColfuturo.jpg)
+
+
 ## Las notas no significan lo mismo en todos lados
 
 También hay una falsedad en comparar notas como si todas valieran lo mismo.
