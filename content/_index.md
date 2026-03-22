@@ -1,5 +1,6 @@
 ---
 title: "Blog Personal"
+
 date: 2026-01-09
 
 topics:
@@ -9,6 +10,9 @@ topics:
   - "Cultura pública"
   - "Historia del presente"
 
-actual_read: "Hobbes"
+actual_reads: 
+- "Hobbes"
+- "WatchMen"
+- "Tiger"
 x: "@phiLL3141"
 ---
