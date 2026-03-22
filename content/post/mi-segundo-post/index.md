@@ -4,10 +4,12 @@ date: 2025-03-15
 draft: false
 tags: ["diario", "reflexión", "GitHub Pages", "escritura", "tecnología", "Software", "YouTube"]
 importance: 4
+image: "img/gitjpg"
 ---
 
 
 <img src="/img/git.jpg caption="Git una locura como trata al tiempo" />
+
 ![GitHubPages](git.jpg)
 
 ## Sobre este diario. La elección de GitHub Pages como medio
