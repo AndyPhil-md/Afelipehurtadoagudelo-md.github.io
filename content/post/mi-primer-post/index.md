@@ -1,26 +1,21 @@
 ---
-unsafe = true
 title: "Puerta de Cristal"
 date: 2026-03-14T21:30:00-05:00
 draft: false
-
 tags:
   - vida
   - diario
   - inicio
   - personal
-
 categories:
   - personal
-
-description: "Primera entrada, primera huella digital formal, hecha por fuera de la esfera de las redes sociales y del tipo de exposición a la que obligan."
+description: "Primera entrada, primera huella digital formal, hecha por fuera de la esfera de las redes sociales."
 cover:
-  image: ![1](2.jpg)
-
+  image: "2.jpg"
 params:
   priority: 10
   process: "inicio"
-  created: "1989"  
+  created: "1989"
 ---
 
 
