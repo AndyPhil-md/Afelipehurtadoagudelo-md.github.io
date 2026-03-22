@@ -29,8 +29,7 @@ tags:
   soñarlas.
   priority: 7
   importancia: 8
-- ---
-- 
+--- 
 
 # La meritocracía de las becas es ficción.
 
