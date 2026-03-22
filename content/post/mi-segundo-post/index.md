@@ -8,9 +8,7 @@ image: "img/gitjpg"
 ---
 
 
-<img src="/img/git.jpg caption="Git una locura como trata al tiempo" />
-
-![GitHubPages](git.jpg)
+![GitHubPages - Útil pero un uso poco eficiente del tiempo](git.jpg)
 
 ## Sobre este diario. La elección de GitHub Pages como medio
 
