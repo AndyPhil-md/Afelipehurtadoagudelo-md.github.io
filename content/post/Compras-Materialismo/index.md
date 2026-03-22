@@ -13,7 +13,7 @@ banner: "toshiyoshida.webp"
 Vi el mismo artículo en AliExpress y en Amazon. La decisión parecía sencilla: siendo el mismo producto, 
 con las mismas especificaciones e incluso el mismo vendedor, lo racional era elegir el más barato. 
 En AliExpress estaba 200 mil pesos más barato.
-![Una manera de pagar por perder el tiempo](aliexpress-vs-amazon.png)
+
 Después vino el problema.
 
 El envío desde AliExpress tardó semanas en salir apenas de la ciudad del vendedor. Poca comunicación. 
