@@ -18,11 +18,10 @@ defaultContentLanguage = "es"
 
   [params.sidebar]
     subtitle = "Memoria."
-
-  [params.avatar]
     enabled = true
     local = true
     src = "img/avatar.jpg"
+  
 
 [markup]
   [markup.goldmark]
