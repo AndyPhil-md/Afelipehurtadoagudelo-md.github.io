@@ -6,6 +6,8 @@ tags: ["diario", "reflexión", "GitHub Pages", "escritura", "tecnología", "Soft
 importance: 4
 ---
 
+
+<img src="/img/git.jpg caption="Git una locura como trata al tiempo" />
 ![GitHubPages](git.jpg)
 
 ## Sobre este diario. La elección de GitHub Pages como medio
