@@ -4,7 +4,7 @@
 
 ---
 
-- ==Iconoclasta==. El modelo a seguir es una trampa: Te venden un espejo donde solo se ven ellos. Perdés tiempo y el virtuosismo de habitarte a vos mismo.
+- ::Iconoclasta::. El modelo a seguir es una trampa: Te venden un espejo donde solo se ven ellos. Perdés tiempo y el virtuosismo de habitarte a vos mismo.
 
 ---
 
@@ -21,4 +21,4 @@
 
 ---
 
-- [Pruebas Silenciosas](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)): El cementerio de ==predicciones== equivocadas que pocos visitan.
+- [Pruebas Silenciosas](https://en.wikipedia.org/wiki/The_Black_Swan_(Taleb_book)): El cementerio de ::predicciones:: equivocadas que pocos visitan.
