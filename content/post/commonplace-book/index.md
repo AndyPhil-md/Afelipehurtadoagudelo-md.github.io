@@ -42,17 +42,17 @@ estado: construcción-permanente
 - *Siete cuentos morales* — J. M. Coetzee [[La condición humana]]
 - Federico Nietszche — ***Todo*** = Si hay experiencia: Así hablo Zaratustra. Si hay rabia: No el ''anticristo''. Si hay ganas de aprender: ''La genealogía de moral''.
 - *Steve Jobs* — Walter Isaacson = Es un biografia muy bien escrita de alguien no menor. Es cruda, no da vueltas. Deja ver como ese mundo y como crece alguien en ese mundo tech, ycreo que engenral en USA. Vale la pena también apra entender el entonro cultural y la menra de pensar dominante que proviene de ese lugar y tiempo en concreto.
-- *Pedro Páramo* — Juan Rulfo = Cuento breve pero que no he terminado. Leo un poco y me deja pensando.
-- *El camino del Tao* = Leo, leo a parte breves. Leo un poco y me deja pensando.
-- *El efecto Lucifer* — Philip Zimbardo = Más de la verdadera [[La condición humana]].
+- *Pedro Páramo* — Juan Rulfo = Breve pero que no he terminado. Leo un poco y me deja pensando.
+- *El camino del Tao* - Lao Tse = Leo, leo a parte breves. Leo un poco y necesito tiempo para porcesar lo que voy descubriendo. Es un libro para leer despacio, incluso volver a algunos apartes.
+- *El efecto Lucifer* — Philip Zimbardo = Más de la verdadera [[La condición humana]]. Que sea en parte producto de un experiemnto es valioso porque no es teoría o supocisión.
 - *Batman: The Killing Joke* — Alan Moore
 - *The Universe in a Nutshell* — Stephen Hawking
 - *Breves respuestas a las grandes preguntas* — Stephen Hawking
 - *Los tres primeros minutos* —  Steven Weinberg
-- *Del Alma, Política, Ética...* — Aristoteles = No he leído más, ni todo; pero si es de esa calidad vale la pena seguir.
+- *Del Alma, Política, Ética...* — Aristoteles =
 - *La República* — Platón
 - *Las mil y una noches* = Lo leo en ¨orden¨ sin esperar terminarlo algun día, no es mi objetivo. También, leo un cuento, y me deja pensando...
-- Jorge Luís Borges
+- Jorge Luís Borges: Sus libros y sus cuentos son maravillos. Recuerdo espcialmente ''El etnografo'', un cuento muy breve pero que cambio mi perspectiva de relación con el mundo exterior.
 - *La casa de las bellas durmientes* — Yasunari Kawabata
 - *El leviatan* — Thomas Hobbes
 
@@ -78,7 +78,7 @@ No los recuerdo. Es un poco injusto: los libros se recuerdan, los artículos cie
  
 ## Periodicos, revistas
 
-- [*The Economist*](https://www.economist.com/)
+- [*The Economist*](https://www.economist.com/) = En mi opión el diario mejor escrito. Sus ensayistas son muy original y desde una posición lo más objetiva posible entender el mundo del poder global.
 - [*The Verge*](https://www.theverge.com)
 - [*The New York Times*](https://www.nytimes.com/)
 
