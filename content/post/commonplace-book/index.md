@@ -40,7 +40,7 @@ estado: construcción-permanente
 
 - [*La muerte de Iván Ilich* — Tolstói](https://onemorelibrary.com/index.php/es/libros/literatura/book/literatura-rusa-196/la-muerte-de-ivan-ilich-261)
 - *Siete cuentos morales* — J. M. Coetzee [[La condición humana]]
-- *Federico Nietszche — ***Todo*** = Si hay experiencia: Así hablo Zaratustra. Si hay rabia: No el ''anticristo''. Si hay ganas de aprender: ''La genealogía de moral''.
+- *Federico Nietszche — **Todo*** = Si hay experiencia: Así hablo Zaratustra. Si hay rabia: No el ''anticristo''. Si hay ganas de aprender: ''La genealogía de moral''.
 - *Steve Jobs — Walter Isaacson* = Es un biografia muy bien escrita de alguien no menor. Es cruda, no da vueltas. Deja ver como ese mundo y como crece alguien en ese mundo tech, ycreo que engenral en USA. Vale la pena también apra entender el entonro cultural y la menra de pensar dominante que proviene de ese lugar y tiempo en concreto.
 - *Juan Rulfo — Pedro Páramo* = Cuento breve pero que no he terminado. Leo un poco y me deja pensando.
 - *El camino del Tao* = Leo, leo a parte breves. Leo un poco y me deja pensando.
