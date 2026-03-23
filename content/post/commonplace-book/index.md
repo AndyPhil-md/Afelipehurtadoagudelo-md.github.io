@@ -15,15 +15,16 @@ tags:
   - zimbardo
   - luhmann
   - método
-importancia:7
+
+importancia: 5
 
 tema:
   - libros
   - pensamiento
   - vida
-  - Entretenimiento
-  - Artes
-  - Comunicación
+  - entretenimiento
+  - artes
+  - comunicación
 
 formato:
   - novela
@@ -31,10 +32,7 @@ formato:
   - biografía
   - filosofía
 
-densidad: Alta
-
-estado:
-  - Construcción permanente
+estado: construcción-permanente
 ---
 
 ## Lecturas que más me han marcado. 
