@@ -15,7 +15,6 @@ tags:
   - zimbardo
   - luhmann
    - método
-
 importancia:7
 
 tema:
