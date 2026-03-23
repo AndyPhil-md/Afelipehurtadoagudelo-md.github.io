@@ -1,5 +1,7 @@
 ## Todo el blog es un hypomnema, pero quería un espacio más breve.
 
+### Propias:
+
 - El elogio y el insulto son lo mismo: lo que revela no es al que lo emite, sino al que no puede ignorarlo.
 
 ---
