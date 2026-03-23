@@ -64,7 +64,7 @@ Cada vez menos, y cada vez menos en español. La mayoria de *podcast* en españo
 - [*philosophize this!*](https://www.philosophizethis.org/podcast)
 - [Desde el observatorio](https://open.spotify.com/show/10mKL7DegYbcSdYiwUCjCn)
 - *Pixelania Podcast*
-- -[*parque Explora*](https://www.parqueexplora.org/aprende/podcast)
+- [*Parque Explora*](https://www.parqueexplora.org/aprende/podcast)
 - *Lex Fridman* = Este podcast no es bueno *per se*, el presentador no tiene realmente un talento. Se nota plástico y artificial [[La condición humana]], PERO, los invitados que lleva son de alta calidad.
 - *Shots de Ciencia*
 - *Podcast de Diana Uribe*
