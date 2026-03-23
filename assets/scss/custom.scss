@@ -14,5 +14,53 @@
     --accent-color: #2ea043; /* Verde éxito/terminal */
 }
 
+/* Tipografía general */
+body {
+  font-family: "Montserrat", system-ui, sans-serif;
+}
+
+/* Cuerpo de los posts */
+.article-content {
+  font-family: "Merriweather", Georgia, serif;
+  font-size: 1.95rem;
+  line-height: 1.85;
+}
+
+/* Títulos */
+.article-title,
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+/* Links rosados */
+.article-content a,
+.main-article a,
+.article-title a {
+  color: var(--accent-color);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.article-content a:hover,
+.main-article a:hover,
+.article-title a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+/* Cursivas más elegantes */
+.article-content em {
+  font-style: italic;
+}
+
+/* Bloques de cita con más personalidad */
+.article-content blockquote {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 1rem;
+  font-style: italic;
+}
+
+
 /* Si quieres que el "Blanco" sea el de defecto del sistema */
 /* El usuario podrá alternar entre Sepia y Oscuro con el botón del sol/luna */
