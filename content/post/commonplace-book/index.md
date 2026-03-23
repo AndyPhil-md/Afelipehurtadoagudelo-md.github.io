@@ -83,7 +83,7 @@ Cada vez menos, y cada vez menos en español. La mayoria de *podcast* en españo
 
 No los recuerdo. Es un poco injusto: los libros se recuerdan, los artículos cientificos no. Aunque implican mucho trabajo y transforman al mundo, su estilo denso y su distancia del arte los condena al olvido de quienes no vivimos adentro del mundo de la investigación. Habré leídos muchos que se instalaron en mi *framework* pero no los recuerdo.
 
-- [*All you need is attention*](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [Ashish Vaswani et al.– “Attention Is All You Need” (arXiv/NeurIPS, 2017)*](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 -  *Método Luhmann*
  
 ## Periodicos, revistas
