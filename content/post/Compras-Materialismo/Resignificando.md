@@ -1,12 +1,13 @@
-### Resignificando lo romántico
-
 ---
-
 title: "Resignificando lo romántico"
-date: 2026-03
+date: 2026-03-01
 draft: false
-tags: ["romance", "crítica-cultural", "capitalismo", "literatura", "Zweig", "commonplace-book"]
+tags: ["romance", "critica-cultural", "capitalismo", "literatura", "zweig", "commonplace-book"]
+summary: "Una crítica a la forma en que lo romántico fue moldeado por imaginarios culturales y lógicas de consumo."
+categories: ["commonplace-book"]
 ---
+
+### Resignificando lo romántico
 
 Hace unos minutos escuché en la radio que alguien mencionaba que eso de resignificar ideas y palabras se estaba volviendo popular. Justo había terminado de leer una novela corta de Stefan Zweig. La novela se llama Carta de una desconocida. Esa novela toca un tema que precisamente necesita eso.
 La novela gira en torno a algo que casi todos asumen como positivo. La sintetizo: arranca con un recurso que Zweig maneja, en este caso no tan hábilmente (el dolor como gancho), y durante setenta páginas describe, desde la posición de la protagonista, un amor platónico y enfermizo. Es hábil para molestar al lector, tallando a fondo la rumiación idealista de la señora: ve libros y asume que el otro sabe muchos idiomas; como sabe idiomas, ha viajado; y, como si no pudiera construir más capas de fantasía infantil, se lo imagina viajando con ella. Setenta páginas de lo mismo y un final débil y poco creíble.
