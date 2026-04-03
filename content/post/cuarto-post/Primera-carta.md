@@ -11,7 +11,7 @@ importance: 10
 Escribo esto rápido, por si algo me pasa. Para que exista mi versión. Para que sepas que estuve."
 
 
-# Querido Martín: carta número uno
+# Querido Martín Felipe Hurtado: carta número uno
 
 Tenés pocos meses de vida mientras escribo esto.
 
